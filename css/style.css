@@ -1,0 +1,23 @@
+@font-face{
+	font-family: Cairo;
+	src:url(../fonts/Cario-Regular.ttf);
+
+}
+.green{
+			font-size: 26px;
+			color: green;
+		}
+.red{
+		font-size: 20px;
+		color: rgb(50, 135, 168);
+		}
+
+h2,ul{
+	color: red; 
+}
+ul >li{
+	font-weight: bold;
+}
+body{
+	font-family: 'Cairo', sans-serif;
+}
